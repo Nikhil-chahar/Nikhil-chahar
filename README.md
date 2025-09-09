@@ -86,21 +86,6 @@
 </p>
 
 ---
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Most Used Languages" height="180"/>
-</p>
-
----
-
-## 📈 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</p>
-
 
 ## ✨ Fun Fact  
 💡 *My brain runs faster than my code when deadlines are close 😎💪*
