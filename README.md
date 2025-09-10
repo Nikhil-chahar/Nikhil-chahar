@@ -16,8 +16,8 @@
 ---
 
 ## 🏆 Achievements
-- ✔️ Solved **700+ DSA Problems** on [LeetCode](https://leetcode.com/u/Nikhil_chahar/) with **Max Rating: Knight (1801)**  
-- ✔️ Solved **250+ DSA Problems** on [Codeforces](https://codeforces.com/profile/nikhil.chahar_cs23) with **Max Rating: Specialist (1088)**  
+- ✔️ Solved **700+ DSA Problems** on [LeetCode](https://leetcode.com/u/Nikhil_chahar/) with **Max Rating: (1801)**  
+- ✔️ Solved **250+ DSA Problems** on [Codeforces](https://codeforces.com/profile/nikhil.chahar_cs23) with **Max Rating: (1088)**  
 - 🚀 Built multiple projects in **MERN, Java, Python**  
 - 🤖 Hands-on experience in **Machine Learning** (NumPy, Pandas, Seaborn, Matplotlib)  
 - 🌍 Active in **open-source** and **hackathons**  
