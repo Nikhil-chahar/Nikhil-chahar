@@ -88,4 +88,4 @@
 ---
 
 ## ✨ Fun Fact  
-💡 Say me Hay BCZ i am gay 😎💪*
+💡 *The best thing about time is Its Change* 😎💪*
