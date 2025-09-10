@@ -88,4 +88,4 @@
 ---
 
 ## ✨ Fun Fact  
-💡 *My brain runs faster than my code when deadlines are close 😎💪*
+💡 Say me Hay BCZ i am gay 😎💪*
