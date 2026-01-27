@@ -4,7 +4,7 @@
 
 ### 💻 Full-Stack Developer • 🧠 Competitive Programmer • 🚀 Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Guardian+%40+LeetCode+(1806+Rating);%40+Codeforces+(1150);700%2B+Problems+Solved;MERN+Stack+%7C+DSA+%7C+Machine+Learning;Building+Scalable+Applications;Always+Learning%2C+Always+Shipping" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=%40+LeetCode+(1806+Rating);%40+Codeforces+(1150);700%2B+Problems+Solved;MERN+Stack+%7C+DSA+%7C+Machine+Learning;Building+Scalable+Applications;Always+Learning%2C+Always+Shipping" alt="Typing Animation" />
 
 </div>
 
@@ -104,8 +104,8 @@ const nikhil = {
 <tr>
 <td width="50%">
 
-### 💬 [MERN ChatApp](https://github.com/neelmanip-999/MERN-ChatApp)
-**Real-time messaging platform**
+### 💬 
+**HealthBridge - Healthcare Management System**
 - ⚡ WebSocket integration (Socket.io)
 - 💬 Instant messaging & notifications
 - 👥 Group chat functionality
@@ -116,19 +116,10 @@ const nikhil = {
 
 </td>
 </tr>
-
-<td width="50%">
-
-### 🎯 More Projects Coming Soon...
-Currently building:
-- 🏥 HealthBridge - Healthcare Management System
-- 📊 Analytics Dashboard - Data Visualization Tool
+</table>
 
 **Always grinding. Always learning.**
 
-</td>
-</tr>
-</table>
 
 ---
 
@@ -240,20 +231,6 @@ Currently building:
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nikhil_chahar121)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilchahar7302@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhil-chahar)
-
-</div>
-
----
-
-## 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-https://github.com/Nikhil-chahar
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nikhil-chahar/Nikhil-chahar/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nikhil-chahar/Nikhil-chahar/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nikhil-chahar/Nikhil-chahar/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
