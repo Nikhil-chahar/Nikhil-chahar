@@ -1,91 +1,270 @@
-# Hi 👋, I'm Nikhil Chahar
+<div align="center">
 
-🎓 CSE Student | 🚀 MERN Stack Developer | 📊 DSA & ML Enthusiast  
+# 👨‍💻 NIKHIL CHAHAR
 
-🔥 700+ LeetCode Problems Solved  
+### 💻 Full-Stack Developer • 🧠 Competitive Programmer • 🚀 Problem Solver
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Guardian+%40+LeetCode+(1806+Rating);%40+Codeforces+(1150);700%2B+Problems+Solved;MERN+Stack+%7C+DSA+%7C+Machine+Learning;Building+Scalable+Applications;Always+Learning%2C+Always+Shipping" alt="Typing Animation" />
 
-## 🚀 About Me
-- 🎓 **Computer Science & Engineering (CSE) Student** | **MERN Stack Developer** | **DSA Enthusiast**  
-- 💡 Passionate about **building scalable applications** and exploring **cutting-edge technologies**.  
-- 💖 Love solving **Data Structures & Algorithms (DSA)** problems and diving into **systems-level programming**.  
-- 🎯 Completed **Machine Learning Course @ Coding Blocks (Mentor: Shubham Singhal Sir)**  
-- 🔑 Always eager to **collaborate on exciting projects**, contribute to open-source, and **learn new skills**!  
+</div>
 
 ---
 
-## 🏆 Achievements
-- ✔️ Solved **700+ DSA Problems** on [LeetCode](https://leetcode.com/u/Nikhil_chahar/) with **Max Rating: (1801)**  
-- ✔️ Solved **250+ DSA Problems** on [Codeforces](https://codeforces.com/profile/nikhil.chahar_cs23) with **Max Rating: (1088)**  
-- 🚀 Built multiple projects in **MERN, Java, Python**  
-- 🤖 Hands-on experience in **Machine Learning** (NumPy, Pandas, Seaborn, Matplotlib)  
-- 🌍 Active in **open-source** and **hackathons**  
+## 🎯 WHY ME?
+
+```javascript
+const nikhil = {
+    role: "CSE Student & Full-Stack Developer",
+    competitive: ["LeetCode (1800)", "Codeforces (1150)"],
+    strengths: ["Clean Architecture", "Scalable Systems", "Fast Execution"],
+    mindset: "I build, I break, I fix, I ship.",
+    status: "Open for SDE-1 opportunities"
+};
+```
+
+- 🚀 **Strong MERN full-stack foundation** with production-ready projects
+- 🧠 **Competitive programming mindset** - 1000 problems solved across platforms
+- 🛠️ **Clean code advocate** - I write maintainable, scalable solutions
+- 🔥 **Fast learner, faster executor** - From idea to deployment in days
+- 🌱 **Active contributor** to open-source and tech community
 
 ---
 
-## 📚 Currently Learning
-- 🌐 **MERN Stack** (Advanced concepts, System Design)  
-- 🏆 **Competitive Programming** (LeetCode, Codeforces)  
-- 🤖 **Machine Learning** (Model Optimization, Data Visualization)  
+## ⏳ WHAT I'M DOING NOW
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 Current Focus
+- Building production-grade MERN applications
+- Preparing for SDE-1 roles at top product companies
+- Mastering System Design fundamentals
+- Advanced DSA problem-solving
+- Contributing to open-source projects
+
+</td>
+<td width="50%">
+
+### 🗺️ 2026 Roadmap
+- ✅ Master System Design patterns
+- ✅ Build a SaaS product from scratch
+- ✅ Reach Codeforces Master (2100+)
+- ✅ Become an open-source maintainer
+- ✅ Land SDE-1 at top tech company
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 I’m Looking to Collaborate On
-- 🌍 Open-source projects related to **Web Development and DSA**  
-- 💡 **Full-stack projects** with innovative ideas  
-- 🏆 **Competitive Programming** discussions and problem-solving  
+### 📊 Stats Snapshot
+
+| Platform | Achievement | Count |
+|----------|-------------|-------|
+| 🟢 LeetCode | Guardian Rating | **1806** |
+| 🔵 Codeforces | Candidate Master | **1150** |
+| ✅ Problems Solved | LeetCode + Codeforces | **950+** |
+| 🚀 GitHub Projects | Production-Ready | **5+** |
+| 🎓 Academic CGPA | Computer Science | **8.51/10** |
 
 ---
 
-## 🛠 Tech Stack & Skills  
+## 🛠️ TECH STACK & ARSENAL
 
-### 🚀 Languages  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+<div align="center">
 
-### 🌐 Web & Frameworks  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+### 🚀 Languages
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp" />
 
-### 🛠 Tools & Libraries  
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-4c8cbf?style=for-the-badge&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)  
+### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
 
-### 🗄 Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+
+### 🛠️ Tools & Technologies
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+
+### 🤖 Data Science & ML
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+</div>
 
 ---
 
+## 🌟 FEATURED PROJECTS
 
-## 📫 Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/in/nikhil-chahar-80b3b5301/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/Nikhil_chahar/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="https://codeforces.com/profile/nikhil.chahar_cs23" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-<!-- <a href="https://mail.google.com/mail/u/0/?hl=en-GB#inbox"> -->
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+<table>
+<tr>
+<td width="50%">
+
+### 💬 [MERN ChatApp](https://github.com/neelmanip-999/MERN-ChatApp)
+**Real-time messaging platform**
+- ⚡ WebSocket integration (Socket.io)
+- 💬 Instant messaging & notifications
+- 👥 Group chat functionality
+- 🔒 Secure authentication
+- 🎨 Responsive UI with Tailwind
+
+**Tech:** React, Node.js, Socket.io, MongoDB
+
+</td>
+</tr>
+
+<td width="50%">
+
+### 🎯 More Projects Coming Soon...
+Currently building:
+- 🏥 HealthBridge - Healthcare Management System
+- 📊 Analytics Dashboard - Data Visualization Tool
+
+**Always grinding. Always learning.**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ✨ Fun Fact  
-💡 *The best thing about time is Its Change* 😎💪*
+## 📈 GITHUB ANALYTICS
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-chahar&theme=algolia&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Nikhil-chahar&show_icons=true&theme=algolia&hide_border=true&border_radius=10&include_all_commits=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil-chahar&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="98%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-chahar&layout=compact&theme=algolia&hide_border=true&border_radius=10&langs_count=8" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nikhil-chahar&theme=algolia&utcOffset=5.5" width="49%" />
+
+</div>
+
+---
+
+## 🎯 COMPETITIVE PROGRAMMING
+
+<div align="center">
+
+### LeetCode Performance
+<img src="https://leetcard.jacoblin.cool/Nikhil_chahar?theme=dark&font=Ubuntu&ext=contest" width="60%" />
+
+### Platform Stats
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🟢 LeetCode**
+- Max Rating: ** (1806)**
+- Problems Solved: **1000+**
+- Contest Rating: **Top 10%**
+- Global Rank: **~50K**
+
+[View Profile →](https://leetcode.com/u/Nikhil_chahar/)
+
+</td>
+<td align="center" width="50%">
+
+**🔵 Codeforces**
+- Max Rating: **1150**
+- Problems Solved: **100+**
+- Contest Participation: **20+**
+- Division: **Div 2**
+
+[View Profile →](https://codeforces.com/profile/nikhil_chahar121)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📚 EDUCATION & CERTIFICATIONS
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 Academic Background
+**B.Tech in Computer Science & Engineering**
+- CGPA: **8.51/10**
+- Core: Data Structures, Algorithms, DBMS, OS
+- Specialization: Full-Stack Development & ML
+
+</td>
+<td width="50%">
+
+### 🏅 Certifications
+**Machine Learning Course**
+- Platform: Coding Blocks
+- Mentor: Shubham Singhal Sir
+- Skills: NumPy, Pandas, Matplotlib, Seaborn
+- Projects: Data Analysis & Visualization
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💬 QUOTE I LIVE BY
+
+<div align="center">
+
+> *"Discipline beats motivation when motivation fades."*
+</div>
+
+---
+
+## 🤝 OPEN TO COLLABORATE ON
+
+- 🌐 **Web Development Projects** - MERN, Full-Stack Applications
+- 🧩 **DSA & Competitive Programming** - Problem-solving discussions
+- 🚀 **Open-Source Contributions** - Building tools for developers
+- 🤖 **Machine Learning Projects** - Data Analysis & Visualization
+- 💡 **Innovative Startup Ideas** - From MVP to production
+
+---
+
+## 📫 LET'S CONNECT
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-chahar-80b3b5301/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Nikhil_chahar/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nikhil_chahar121)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilchahar7302@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhil-chahar)
+
+</div>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+https://github.com/Nikhil-chahar
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nikhil-chahar/Nikhil-chahar/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nikhil-chahar/Nikhil-chahar/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nikhil-chahar/Nikhil-chahar/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+
+*Last Updated: January 2026*
+
+</div>
+
+---
+
