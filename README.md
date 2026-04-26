@@ -96,11 +96,11 @@ const nikhil = {
 </div>
 
 ---
-
 ## 🌟 FEATURED PROJECTS
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 💬 
@@ -109,11 +109,27 @@ const nikhil = {
 - 💬 Instant messaging & notifications
 - 👥 Group chat functionality
 - 🔒 Secure authentication
-- 🎨 Responsive UI with Tailwind
+- 🎨 Responsive UI with Tailwind  
 
 **Tech:** React, Node.js, Socket.io, MongoDB
 
 </td>
+
+<td width="50%">
+
+### 🛒 
+**OLD-BAZAAR - E-commerce Platform**
+- 🛍️ Product browsing & advanced search
+- 🛒 Add to cart & secure checkout
+- 💳 Payment gateway integration
+- 👤 User authentication & order tracking
+- 📦 Admin dashboard for product & order management
+- 🎨 Responsive UI with Tailwind  
+
+**Tech:** React, Node.js, Express, MongoDB, RazorPay
+
+</td>
+
 </tr>
 </table>
 
@@ -241,9 +257,10 @@ const nikhil = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neelmanip-999/neelmanip-999/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neelmanip-999/neelmanip-999/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/neelmanip-999/neelmanip-999/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhil-chahar/nikhil-chahar/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhil-chahar/nikhil-chahar/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" 
+       src="https://raw.githubusercontent.com/nikhil-chahar/nikhil-chahar/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -252,7 +269,7 @@ const nikhil = {
 <div align="center">
 
 
-*Last Updated: January 2026*
+*Last Updated: April 2026*
 
 </div>
 
