@@ -4,7 +4,7 @@
 
 ### 💻 Full-Stack Developer • 🧠 Competitive Programmer • 🚀 Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=%40+LeetCode+(1806+Rating);%40+Codeforces+(1298)+pupil;1100%2B+Problems+Solved;MERN+Stack+%7C+DSA+%7C+Machine+Learning;Building+Scalable+Applications;Always+Learning%2C+Always+Shipping" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=%40+LeetCode+(1806+Rating);%40+Codeforces+(1410)+pupil;1100%2B+Problems+Solved;MERN+Stack+%7C+DSA+%7C+Machine+Learning;Building+Scalable+Applications;Always+Learning%2C+Always+Shipping" alt="Typing Animation" />
 
 </div>
 
@@ -15,7 +15,7 @@
 ```javascript
 const nikhil = {
     role: "CSE Student & Full-Stack Developer",
-    competitive: ["LeetCode (1806)", "Codeforces (1298)"],
+    competitive: ["LeetCode (1806)", "Codeforces (1410)"],
     strengths: ["Clean Architecture", "Scalable Systems", "Fast Execution"],
     mindset: "I build, I break, I fix, I ship.",
     status: "Open for SDE-1 opportunities"
