@@ -23,7 +23,7 @@ const nikhil = {
 ```
 
 - 🚀 **Strong MERN full-stack foundation** with production-ready projects
-- 🧠 **Competitive programming mindset** - 1100 problems solved across platforms
+- 🧠 **Competitive programming mindset** - 1300 problems solved across platforms
 - 🛠️ **Clean code advocate** - I write maintainable, scalable solutions
 - 🔥 **Fast learner, faster executor** - From idea to deployment in days
 - 🌱 **Active contributor** to open-source and tech community
@@ -41,7 +41,6 @@ const nikhil = {
 - Preparing for SDE-1 roles at top product companies
 - Mastering System Design fundamentals
 - Advanced DSA problem-solving
-- Contributing to open-source projects
 
 </td>
 <td width="50%">
@@ -64,8 +63,8 @@ const nikhil = {
 | Platform | Achievement | Count |
 |----------|-------------|-------|
 | 🟢 LeetCode | Rating | **1806** |
-| 🔵 Codeforces | Pupil | **1298** |
-| ✅ Problems Solved | LeetCode + Codeforces | **1100+** |
+| 🔵 Codeforces | Pupil | **1410** |
+| ✅ Problems Solved | LeetCode + Codeforces | **1300+** |
 | 🚀 GitHub Projects | Production-Ready | **5+** |
 | 🎓 Academic CGPA | Computer Science | **8.51/10** |
 
@@ -150,10 +149,10 @@ const nikhil = {
 
 **🟢 LeetCode**
 - Max Rating: ** (1806)**
-- Problems Solved: **1000+**
+- Problems Solved: **1100+**
 - Contest Rating: **Top 10%**
-- Contest Participation: **30+**
-- Global Rank: **~50K**
+- Contest Participation: **35+**
+- Global Rank: **~10K**
 
 [View Profile →](https://leetcode.com/u/Nikhil_chahar/)
 
@@ -161,8 +160,8 @@ const nikhil = {
 <td align="center" width="50%">
 
 **🔵 Codeforces**
-- Max Rating: **1298**
-- Problems Solved: **100+**
+- Max Rating: **1410**
+- Problems Solved: **150+**
 - Contest Participation: **20+**
 - Division: **Div 2**
 
