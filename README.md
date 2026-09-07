@@ -15,7 +15,7 @@
 ```javascript
 const nikhil = {
     role: "CSE Student & Full-Stack Developer",
-    competitive: ["LeetCode (1806)", "Codeforces (1410)"],
+    competitive: ["LeetCode (1944)", "Codeforces (1410)"],
     strengths: ["Clean Architecture", "Scalable Systems", "Fast Execution"],
     mindset: "I build, I break, I fix, I ship.",
     status: "Open for SDE-1 opportunities"
@@ -23,7 +23,7 @@ const nikhil = {
 ```
 
 - 🚀 **Strong MERN full-stack foundation** with production-ready projects
-- 🧠 **Competitive programming mindset** - 1300 problems solved across platforms
+- 🧠 **Competitive programming mindset** - 1500 problems solved across platforms
 - 🛠️ **Clean code advocate** - I write maintainable, scalable solutions
 - 🔥 **Fast learner, faster executor** - From idea to deployment in days
 - 🌱 **Active contributor** to open-source and tech community
@@ -62,11 +62,11 @@ const nikhil = {
 
 | Platform | Achievement | Count |
 |----------|-------------|-------|
-| 🟢 LeetCode | Rating | **1806** |
+| 🟢 LeetCode | Rating | **1944** |
 | 🔵 Codeforces |  specialist | **1410** |
-| ✅ Problems Solved | LeetCode + Codeforces | **1300+** |
+| ✅ Problems Solved | LeetCode + Codeforces | **1500+** |
 | 🚀 GitHub Projects | Production-Ready | **5+** |
-| 🎓 Academic CGPA | Computer Science | **8.51/10** |
+| 🎓 Academic CGPA | Computer Science | **8.61/10** |
 
 ---
 
@@ -103,8 +103,7 @@ const nikhil = {
 
 <td width="50%">
 
-### 💬 
-**HealthBridge - Healthcare Management System**
+### 💬 **HealthBridge - Healthcare Management System**
 - ⚡ WebSocket integration (Socket.io)
 - 💬 Instant messaging & notifications
 - 👥 Group chat functionality
@@ -117,8 +116,7 @@ const nikhil = {
 
 <td width="50%">
 
-### 🛒 
-**OLD-BAZAAR - E-commerce Platform**
+### 🛒 **OLD-BAZAAR - E-commerce Platform**
 - 🛍️ Product browsing & advanced search
 - 🛒 Add to cart & secure checkout
 - 💳 Payment gateway integration
@@ -130,7 +128,23 @@ const nikhil = {
 
 </td>
 
+
 </tr>
+<td width="50%">
+
+### 💼**INTERVIEW-PREP - AI Interview Platform**
+- 🎯 AI-powered mock interview sessions
+- 🧠 Role-based technical & behavioral questions
+- 🎤 Real-time interview with voice interaction
+- 📊 Performance analysis & detailed feedback
+- 👤 User authentication & personalized dashboard
+- 📚 Interview history & progress tracking
+- 🎨 Responsive UI with modern design
+
+**Tech:** React, Node.js, Express, MongoDB, OpenAI API, Stream, Clerk for Auth
+
+</td>
+
 </table>
 
 **Always grinding. Always learning.**
@@ -164,9 +178,9 @@ const nikhil = {
 <td align="center" width="50%">
 
 **🟢 LeetCode**
-- Max Rating: ** (1806)**
-- Problems Solved: **1100+**
-- Contest Rating: **Top 10%**
+- Max Rating: ** (1944)**
+- Problems Solved: **1300+**
+- Contest Rating: **Top 3%**
 - Contest Participation: **35+**
 - Global Rank: **~10K**
 
@@ -177,7 +191,7 @@ const nikhil = {
 
 **🔵 Codeforces**
 - Max Rating: **1410**
-- Problems Solved: **150+**
+- Problems Solved: **200+**
 - Contest Participation: **20+**
 - Division: **Div 2**
 
@@ -199,8 +213,8 @@ const nikhil = {
 
 ### 🎓 Academic Background
 **B.Tech in Computer Science & Engineering**
-- CGPA: **8.51/10**
-- Core: Data Structures, Algorithms, DBMS, OS
+- CGPA: **8.61/10**
+- Core: Data Structures, Algorithms, DBMS, Operating System
 - Specialization: Full-Stack Development & ML
 
 </td>
@@ -269,7 +283,7 @@ const nikhil = {
 <div align="center">
 
 
-*Last Updated: April 2026*
+*Last Updated: sept 2026*
 
 </div>
 
